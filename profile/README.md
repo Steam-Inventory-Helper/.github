@@ -59,7 +59,7 @@ Steam Inventory Helper is a powerful browser extension designed to streamline tr
 
 ### 🖼 Preview
 
-![Inventory Overview](https://avatars.akamai.steamstatic.com/faa27c7e61ec0ec7ef08c37405bd89cab38c291f_full.jpg)  
+  
 ![Extension Features](https://lh3.googleusercontent.com/T4zMAA6LMcpHi661QwHQT6jvi0_diQjWanQe5NYYXa7nYtK8rOmHQnjSlmBs2TNFF6gM37C7ys8IcMcqksgnA586f68=s1280-w1280-h800)
 
 ---
